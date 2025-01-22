@@ -32,3 +32,6 @@ Este projeto consiste em desenvolver um jogo simples em JavaScript que permite a
 Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 **Divirta-se jogando e boa sorte no desafio!**
+
+**Link do deploy do site no Vercel**
+https://desafio-amigo-secreto-dun.vercel.app/
